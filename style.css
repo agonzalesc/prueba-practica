@@ -1,0 +1,38 @@
+#contenedor{
+
+		display: flex;
+			justify-content: center;
+			background-color: lightblue;
+			padding: 35px;
+}
+
+#bt-1{
+	background-color: seagreen;
+	border: 0px;
+	padding: 10px;
+	color: #000;
+	margin-right:10px;
+}
+
+#bt-2{
+	background-color: lightpink;
+	border: 0px;
+	padding: 10px;
+	color: #000;
+}
+
+#pr{
+	font-family: arial;
+	font-size: 25px;
+	text-align: center;
+	margin: 20px;
+}
+
+.pr.cam{
+	font-family: arial;
+	font-size: 18px;
+	text-align: center;
+	margin: 20px;
+	color: red;
+	font-weight: bold;
+}
